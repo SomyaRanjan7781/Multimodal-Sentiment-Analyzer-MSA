@@ -3,6 +3,6 @@ gunicorn==21.2.0
 textblob==0.17.1
 transformers==4.45.1
 torch==2.9.0
-torchvision==0.24.1
+torchvision==0.24.0
 torchaudio==2.9.0
 Pillow==10.4.0
