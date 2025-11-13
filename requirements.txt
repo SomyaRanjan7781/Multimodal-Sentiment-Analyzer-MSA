@@ -2,7 +2,7 @@ Flask==3.0.0
 gunicorn==21.2.0
 textblob==0.17.1
 transformers==4.45.1
-torch==2.5.1
+torch==2.9.0
 torchvision==0.24.1
 torchaudio==2.5.1
 Pillow==10.4.0
